@@ -32,8 +32,4 @@ Deployment: Python script (can be integrated with GUI/web interface)
 
 📦 Requirements
 Install dependencies using pip:
-
-bash
-Copy
-Edit
 pip install opencv-python pygame numpy gtts flask twilio ultralytics
