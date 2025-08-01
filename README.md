@@ -36,3 +36,11 @@ Deployment: Python script (can be integrated with GUI/web interface)
 📦 Requirements
 Install dependencies using pip:
 pip install opencv-python pygame numpy gtts flask twilio ultralytics
+
+The following image shows the real-time detection of fire using our YOLO-based model. Upon detection, the system triggers sirens, sends emergency alerts, and activates evacuation instructions.
+
+ <img width="1008" height="717" alt="image" src="https://github.com/user-attachments/assets/7c693bd3-5f94-4702-89b2-36770e23d90a" />
+
+
+
+
