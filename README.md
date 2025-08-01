@@ -44,6 +44,7 @@ The following image shows the real-time detection of fire using our YOLO-based m
  <img width="1008" height="717" alt="image" src="https://github.com/user-attachments/assets/7c693bd3-5f94-4702-89b2-36770e23d90a" />
 
 🔥 If fire is detected - It will show in a rectangular block :
+
  <img width="381" height="296" alt="Screenshot 2025-04-28 205556" src="https://github.com/user-attachments/assets/40b5067e-907d-439e-a79b-cf28551f650e" />
 
 
